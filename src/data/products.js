@@ -5,31 +5,34 @@ const products = [
     category: "Electronics",
     price: 55000,
     quantity: 10,
-    image: "https://placehold.co/400x300?text=Laptop",
+    image:
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=900&q=85",
     description:
-      "A powerful laptop suitable for programming, study and everyday work."
+      "A powerful and stylish laptop suitable for programming, studying, office work and everyday use."
   },
 
   {
     id: 2,
-    name: "Mouse",
+    name: "Wireless Mouse",
     category: "Electronics",
     price: 800,
     quantity: 25,
-    image: "https://placehold.co/400x300?text=Mouse",
+    image:
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=85",
     description:
-      "A comfortable wireless mouse suitable for daily computer use."
+      "A comfortable wireless mouse with an ergonomic design, perfect for everyday computer use."
   },
 
   {
     id: 3,
-    name: "Chair",
+    name: "Office Chair",
     category: "Furniture",
     price: 4500,
     quantity: 15,
-    image: "https://placehold.co/400x300?text=Chair",
+    image:
+      "https://online.riadco.com/cdn/shop/files/OML3_1.jpg?v=1764589192&width=1664",
     description:
-      "A comfortable office chair designed for long working sessions."
+      "A modern ergonomic office chair designed for comfortable working and study sessions."
   },
 
   {
@@ -38,9 +41,10 @@ const products = [
     category: "Stationery",
     price: 100,
     quantity: 50,
-    image: "https://placehold.co/400x300?text=Notebook",
+    image:
+      "https://acdn-us.mitiendanube.com/stores/607/264/products/21d62294-bc1c-4d9b-9a6e-5afe605702f51-a54ec6e9609cc028a016733746627245-1024-1024.webp",
     description:
-      "A simple notebook for writing notes, assignments and ideas."
+      "A stylish A5 notebook suitable for taking notes, writing assignments and organizing ideas."
   }
 ];
 

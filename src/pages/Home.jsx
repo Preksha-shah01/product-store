@@ -4,15 +4,19 @@ function Home() {
   return (
     <div className="home">
 
-      <h1>Welcome to Product Store</h1>
+      <h1>
+        Everything You Need,
+        <br />
+        All in One Place.
+      </h1>
 
       <p>
-        Browse our products and add your favorite items
-        to the shopping cart.
+        Discover quality electronics, furniture and
+        stationery at affordable prices.
       </p>
 
       <Link to="/products" className="shop-btn">
-        View Products
+        Explore Products
       </Link>
 
     </div>
